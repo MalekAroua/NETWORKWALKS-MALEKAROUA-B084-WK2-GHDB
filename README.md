@@ -61,6 +61,9 @@ The main goals of these practical labs are:
 
 **Objective:** Document 5 publicly accessible network camera feeds identified via GHDB dorks.
 
+![Live Camera Feeds](./screenshots/ghdb.png)
+
+
 | Target # | IP Address / URL | Location / Organization | Camera Model / Interface | Verification Status |
 | --- | --- | --- | --- | --- |
 | **01** | `82.xxx.xx.xxx:8081` | France  | Yawcam / Web Interface | Verified (Live) |
@@ -78,6 +81,9 @@ IoT devices deployed without strong authentication expose live video streams to 
 ### Task 2: Open Directory Footprinting (`mathematics pdf`)
 
 **Objective:** Identify 5 web servers with active directory indexing exposing unauthenticated documents.
+
+![Directory Footprinting](./screenshots/mathematics.png)
+
 
 | Target # | Base Domain | Exposed Directory Path | Sample Document Exposed | Security Impact |
 | --- | --- | --- | --- | --- |
